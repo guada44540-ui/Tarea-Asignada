@@ -1,3 +1,3 @@
 # Tarea-Asignada
-trabajo de practica realizado con NotebookLM
-Herramienta utilizada: NotebookookLM
+##  trabajo de practica realizado con NotebookLM
+##  Herramienta utilizada: NotebookookLM
